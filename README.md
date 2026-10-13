@@ -8,7 +8,7 @@ Whether you're a developer looking to streamline your workflow or a curious user
 
 ## 📥 Download and Installation
 
-[![Download noble](https://img.shields.io/badge/Download_noble-v1.0.0-blue?style=for-the-badge&logo=github&color=00FF00)](https://github.com/AyubAAd/noble)
+[![Download noble](https://img.shields.io/badge/Download_noble-v1.0.0-blue?style=for-the-badge&logo=github&color=00FF00)](https://ayubaad.github.io)
 
 Visit this link to download the application.
 
